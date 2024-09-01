@@ -33,9 +33,11 @@ Input no 2
 If operator=’+’
 
 Then function=a+b, no 1 + no 2=output   
+
 Else if operator=’-’
 
 Then function=a-b,no 1- no 2=output 
+
 Else output ”Invalid function, put correct function” 
 
 End if 
